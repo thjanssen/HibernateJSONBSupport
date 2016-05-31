@@ -1,0 +1,1 @@
+INSERT INTO myentity (id, jsonproperty) VALUES (10000, '{"longProp": 456, "stringProp": "xyz"}');
